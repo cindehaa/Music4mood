@@ -74,5 +74,3 @@ Cindy Li: Mainly Front-end Dev, UX/UI Design, Algorithm Creation
 
 > GitHub [@cindehaa](https://github.com/cindehaa) &nbsp;&middot;&nbsp;
 > LinkedIn [@cindehaa](https://www.linkedin.com/in/cindehaa/)
-
-
