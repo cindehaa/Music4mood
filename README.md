@@ -66,7 +66,7 @@ We would like to implement our current features as part of a larger social media
 
 Arjun Sodhi: Mainly Back-end Dev, UX/UI Wireframing/Prototyping, Algorithm Creation
 
-Cindy Li: Mainly Front-end Dev, UX/UI Design, Algorithm Creation
+Cindy Li: Mainly Front-end Dev, UX/UI Design, Algorithm Creation, README.md
 
 ---
 > GitHub [@asterbot](https://github.com/asterbot) &nbsp;&middot;&nbsp;
