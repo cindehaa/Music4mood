@@ -11,7 +11,7 @@
   <a href="#languages-tools-and-technologies">Languages, Tools, and Technologies</a> •
   <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#roadmap">Roapmap</a> •
+  <a href="#roadmap">Roadmap</a> •
   <a href="#authors">Authors</a>  
 </p>
 
@@ -35,8 +35,11 @@ Flask: version 2.0.2
 ## Features
 * Identifies user's mood along the five dimensions of happy, sad, anger, fear, and surprise
 * Tailored song recommendations based on the user's mood
-* Customize the number of song recommendations displayed
-* 
+* Customize the number of song recommendations displayed, with up to 21 maximum song recommendations
+* Visually appealing UI with: 
+  *  Animated text upon loading the website
+  *  Buttons and textbox that change state upon hover and click
+  *  Adjustment of website elements based on screen size 
 
 ## How To Use
 To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/), and an IDE.
@@ -47,10 +50,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Pyth
 git clone https://github.com/asterbot/Music4mood
 
 2. Install Flask and the following libraries: text2emotion, emoji, nltk
-python -m pip install flask
-python -m pip install text2emotion
-python -m pip install emoji
-python -m pip install nltk
+* python -m pip install flask
+* python -m pip install text2emotion
+* python -m pip install emoji
+* python -m pip install nltk
 
 3. Run main.py. Click around the text to input text in a textbox. Use the slider to select the number of songs you wish to be suggested. Click on "Find me songs!" to receive a custom list of song recommendations on the next page.
 
@@ -62,6 +65,7 @@ We would like to implement our current features as part of a larger social media
 ## Authors
 
 Arjun Sodhi: Mainly Back-end Dev, UX/UI Wireframing/Prototyping, Algorithm Creation
+
 Cindy Li: Mainly Front-end Dev, UX/UI Design, Algorithm Creation
 
 ---
