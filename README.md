@@ -57,7 +57,7 @@ git clone https://github.com/asterbot/Music4mood
 
 3. Run main.py. Click around the text to input text in a textbox. Use the slider to select the number of songs you wish to be suggested. Click on "Find me songs!" to receive a custom list of song recommendations on the next page.
 
-4. If you receive an Internal Server Error, a new access token may be needed. Log onto developer.spotify.com, and navigate to [Console] (https://developer.spotify.com/console/) -> Browse -> [Get Recommendations](https://developer.spotify.com/console/get-recommendations/). Scroll down to OAuth Token and click on "Get Token", then "Request Token". Copy the OAuth Token and replace the access token in line 8 of main.py with the OAuth Token.
+4. If you receive an Internal Server Error, a new access token may be needed. Log onto developer.spotify.com, and navigate to [Console](https://developer.spotify.com/console/) -> Browse -> [Get Recommendations](https://developer.spotify.com/console/get-recommendations/). Scroll down to OAuth Token and click on "Get Token", then "Request Token". Copy the OAuth Token and replace the access token in line 8 of main.py with the OAuth Token.
 
 ## Roadmap
 We would like to implement our current features as part of a larger social media app, where users are able to share photos and text simultaneously with music.
