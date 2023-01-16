@@ -36,7 +36,7 @@ Flask: version 2.0.2
 * Identifies user's mood along the five dimensions of happy, sad, anger, fear, and surprise
 * Tailored song recommendations based on the user's mood
 * Customize the number of song recommendations displayed, with up to 21 maximum song recommendations
-* Visually appealing UI with: 
+* Visually appealing UI, with: 
   *  Animated text upon loading the website
   *  Buttons and textbox that change state upon hover and click
   *  Adjustment of website elements based on screen size 
