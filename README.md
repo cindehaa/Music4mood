@@ -42,7 +42,7 @@ Flask: version 2.0.2
   *  Adjustment of website elements based on screen size 
 
 ## How To Use
-To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/), and an IDE.
+To clone and run this application:
 
 ###### Note that the Spotify Access token may be outdated. Please check step 4 if you receive an Internal Server Error.
 
